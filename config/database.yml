@@ -15,10 +15,10 @@
 development:
   adapter: postgresql
   encoding: unicode
-  database: Big-Bear-Lake_development
+  database: BigBearLake_development
   pool: 5
-  username: Big-Bear-Lake
-  password:
+  username: neil
+  password: password
 
   # Connect on a TCP socket. Omitted by default since the client uses a
   # domain socket that doesn't need configuration. Windows does not have
